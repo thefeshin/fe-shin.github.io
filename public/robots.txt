@@ -1,0 +1,7 @@
+# robots.txt file for Farid Shokri's Portfolio
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://faridshokri.com/sitemap.xml
